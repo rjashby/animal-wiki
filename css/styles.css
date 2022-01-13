@@ -1,3 +1,23 @@
 body {
   background-color: seagreen;
 }
+
+#lionfacts {
+  display: none;
+}
+
+#tigerfacts {
+  display: none;
+}
+
+#bearfacts {
+  display: none;
+}
+
+#goldiefacts {
+  display: none;
+}
+
+img {
+  width: 50%;
+}
